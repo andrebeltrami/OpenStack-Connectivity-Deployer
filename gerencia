@@ -1,0 +1,5 @@
+Data Plane:20.20.20.0/24
+Control Plane:192.168.1.0/24
+IP of MV:192.168.1.115
+Login of MV:openstack-slave
+IP of other Subnet:30.30.30.0/24
